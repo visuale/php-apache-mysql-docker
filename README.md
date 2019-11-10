@@ -1,7 +1,7 @@
 Docker Container For Website Development
 ====
 
-This project holds a container for development of several smaller website projects and creates an PHP Apache (v7.3) container, MySQL Database (v5.6) container and a PhpMyAdmin container. It can also run Wordpress instances and even Drupal but getting some Drupal-specific frameworks (like Drush) up and running would take a little more configuration.
+This project holds a container for development of several smaller website projects I work on from time to time. It creates an PHP Apache (v7.3) container, MySQL Database (v5.6) container and a PhpMyAdmin container. It can also run Wordpress instances and even Drupal but getting some Drupal-specific frameworks (like Drush) up and running would take a little more configuration.
 
 It's based on a [setup](https://github.com/jcavat/docker-lamp) by [Joel Cavat](https://github.com/jcavat) but I've changed the structure somewhat in accordance with some specific needs of my own.
 
