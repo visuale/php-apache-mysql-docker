@@ -17,8 +17,8 @@ CREATE TABLE `start_artists` (
 INSERT INTO `start_artists` (`id`, `artist`) VALUES
 (1, 'Leonardo Da Vinci'),
 (2, 'Gustave Courbet'),
-(3, 'Gustave Caillebotte');
-(4, 'John Singer Sargent');
+(3, 'Gustave Caillebotte'),
+(4, 'John Singer Sargent'),
 (5, 'Jean-Francois Millet');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
